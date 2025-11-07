@@ -8,9 +8,9 @@ Personalized restaurant recommendation service for various dietary preferences.
 ## 📁 Repository Structure
 | Name | Description |
 |------|--------------|
-| [MenuMate-FE](https://github.com/GDG-MenuMate/MenuMate-FE) | Frontend (React / Expo) |
-| [MenuMate-BE](https://github.com/GDG-MenuMate/MenuMate-BE) | Backend (FastAPI / Django) |
-| [MenuMate-AI](https://github.com/GDG-MenuMate/MenuMate-AI) | AI / Recommendation model |
+| [MenuMate-FE](https://github.com/GDG-MenuMate/MenuMate-FE) | Frontend (React, Zustand) |
+| [MenuMate-BE](https://github.com/GDG-MenuMate/MenuMate-BE) | Backend (Node.js, Express) |
+| [MenuMate-AI](https://github.com/GDG-MenuMate/MenuMate-AI) | AI (Python(pytorch)) |
 | [MenuMate-docs](https://github.com/GDG-MenuMate/MenuMate-docs) | Docs, ERD, API spec, presentation |
 
 ---
@@ -28,7 +28,7 @@ Personalized restaurant recommendation service for various dietary preferences.
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Zustand  
-- **Backend:** Node.js Express  
+- **Backend:** Node.js, Express  
 - **AI:** Python(pytorch)
 
 ---
